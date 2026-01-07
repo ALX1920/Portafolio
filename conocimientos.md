@@ -1,5 +1,5 @@
 /_ ==========================================
-ereres clasicos 
+errores clasicos 
 ========================================== _/
 
 tuve problemas al serrar head, al final entendi que tenia que agregar u (/)
