@@ -3,6 +3,7 @@ errores clásicos / classic errors
 ========================================== _/
 
 Tuve problemas al cerrar head, al final entendí que tenía que agregar un (/).
+
 I had problems closing the head tag. In the end, I understood that I had to add a (/).
 
 <head>
@@ -23,4 +24,5 @@ However, I also had problems at the beginning when using them, because when I tr
 .(nombre)
 
 Después de aprender esto, aun así tuve errores, ya que olvidaba poner el punto, pero mi frustración ya no era igual.
+
 After learning this, I still made mistakes because I forgot to add the dot, but my frustration wasn’t the same anymore.
